@@ -1,6 +1,6 @@
 # Lanetracker
 
-Detects lanes on for a autonomous camera
+Detects lanes on a track for an autonomous rover
 
 **lanedetect_edges.py** uses edge detection and hough lines to detect lane edges
 
